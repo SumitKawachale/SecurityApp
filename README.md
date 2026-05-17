@@ -512,7 +512,7 @@ Contributions, suggestions, and improvements are always welcome.
 
 ## 🌐 Let's Connect & Build Together
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SumitKawchale/SumitKawachale)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SumitKawachale/SumitKawachale)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sumit-kawachale)
 
