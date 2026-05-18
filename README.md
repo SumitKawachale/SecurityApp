@@ -528,6 +528,21 @@ If you found this project useful:
 - 🍴 Fork the repository
 - 🔔 Follow for future updates
 
+---
+
+# ⚡ Continuous Learning
+
+This repository reflects continuous learning in:
+
+- Backend Engineering
+- Spring Boot Ecosystem
+- API Security
+- Authentication Systems
+- Scalable Java Architecture
+- Production-Grade Backend Development
+
+---
+
 <div align="center">
 
 # 🚀 Secure APIs • Clean Architecture • Scalable Backend
