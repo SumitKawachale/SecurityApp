@@ -490,22 +490,6 @@ docs: update README documentation
 
 ---
 
-# 🤝 Contributions
-
-Contributions, suggestions, and improvements are always welcome.
-
-# Steps to Contribute
-
-```bash
-1. Fork Repository
-2. Create Feature Branch
-3. Commit Changes
-4. Push Changes
-5. Open Pull Request
-```
-
----
-
 # 📬 Connect With Me
 
 <div align="center">
